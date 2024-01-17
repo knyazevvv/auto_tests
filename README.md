@@ -1,3 +1,7 @@
 # auto_tests
 тесты
-Hello
+Hello git
+Git
+Git
+Git
+
